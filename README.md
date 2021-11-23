@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehgalon
+- 👋 Hi, I’m Meg.
 - 👀 I’m interested in learning to code for data analysis.
 - 🌱 I’m currently learning python and machine learning.
 - 💞️ I’m looking to collaborate on any project or exercise that can help me develop those skills.
